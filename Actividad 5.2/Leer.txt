@@ -1,0 +1,7 @@
+1.- Al igual que en la actividad 5.1 este código es para dart de visual studio code
+
+2.-Para realizarlos usé la extension de dart en visual studio code, para instalar el SDK use la consola de powershell de windows y usé el comando "choco install dart-sdk".
+
+3.-Y para ejecutar los códigos se usa la misma terminal de VisualSudioCode, por ejemplo: " dart MenuPlatillos.dart"
+
+Nota: Asegúrate que desde la consola este en tu directorio donde están tus archivos a ejecutar.
